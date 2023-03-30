@@ -55,7 +55,7 @@ int main(){
 	string fn, ln;
 	int sal;
 	int f,l,s;
-	Employee user("Karthik","MSK",150000);
+	Employee user("Jay","Ram",150000);
 	user.disp();
 	cout<<"\nDo you need to change fname (0/1):";
 	cin>>f;
