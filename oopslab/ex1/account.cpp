@@ -39,7 +39,7 @@ class account{
 };
 int main(){
     int b,c,d,cre,deb;
-    account user("Karthik",1500);
+    account user("Jay",1500);
     cout<<"Name : "<<user.getname()<<endl;
     cout<<"Balance : "<<user.getbal()<<endl;
     cout<<"\nEnter the amount to credit:";
